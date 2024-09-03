@@ -1,10 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml" refresh="3600" 
-
-# Join Telegram Group: https://t.me/iptvth
-# =======================================================
-# Playlist Name: My Playlist by Akkradet
-# Last Update: 2024-08-11 00:05:09 UTC+07 ICT
-# =======================================================
+#EXTM3U 
 
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -128,7 +122,7 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/130_y_9Jka0VhdxwSbtiYqBNXEm5scD2HjzfM8.png",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath TV.th" tvg-name="THAIRATH" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -136,7 +130,7 @@ https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/132_y_4dCbQViIft2z6KSY9mproWPnRExaDgJG.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AMARIN" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AMARIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -144,7 +138,7 @@ https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="CH7 HD.th" tvg-name="7 HD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png",7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
 
 #EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/135_y_OLtxS0op951fl2AEcN4PUFyRma6TJWM7.png",PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
